@@ -3,7 +3,7 @@
 
 # Клонировать репозиторий 
 
-`git clone git@gitlab.com:amirgaripi2001/mobile-effective-test.git`
+`git clone git@github.com:AmirGar21/mobile-effective-test.git`
 
 # Из корневой директории проекта выполнить:
 
